@@ -10,7 +10,7 @@ import time
 
 import telebot
 
-bot = telebot.TeleBot("1032140971:AAFfDt7Kvr9ZQxpifoiH0wBNTfSYse84NiA")
+bot = telebot.TeleBot("xxxxxxx:xxxxxxxxx")
 
 def job():
     print("I'm working...")
